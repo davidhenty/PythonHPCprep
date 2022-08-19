@@ -22,18 +22,32 @@ administrative privileges on.
 
 In advance of the course, you need to:
 
-  * set up Python, Anaconda, mpi4py and Jupyter notebooks on your laptop;
+  * set up Python, Anaconda, Jupyter notebooks and mpi4py on your laptop;
   * apply for a login account on ARCHER2, the UK National HPC service.
 
 Full instructions are proved below.
 
 <h3>Python setup on your laptop</h3>
 
+<h4>Pre-requisites</h3>
 
+To install Python3, Anaconda and Jupyter Notebooks follow the
+[instructions on the Software Carpentries
+website](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
 
-
-<h3>Pre-requisites</h3>
-
+We will not be using the same material as the Software Carpentries
+course, but to test your installation you can follow the instructions
+to "Obtain lesson materials", open `swc-python/Untitled.ipynb` in a
+Jupyter notebook and execute the following commands (to execute a command in a notebook you need to type Shift + Enter, not just Enter):
+````
+import numpy as np
+a = np.array( [-1, 0, 1] )
+print(a)
+````
+You should see the output:
+````
+[-1  0  1]
+````
 
 
 The course assumes a basic understanding of Python programming. You
