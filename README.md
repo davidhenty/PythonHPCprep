@@ -16,16 +16,19 @@ parallel
 numpy!](https://virtual.oxfordabstracts.com/#/event/3101/submission/103)
 on Wednesday 7th September 2022, 09:00 - 12:30 BST.
 
-In advance of the course, you need to
-
-  * a
-  * b
-
-<h3>Requirements</h3>
-
 Participants must bring a laptop with a Mac, Linux, or Windows
 operating system (not a tablet, Chromebook, etc.) that they have
 administrative privileges on.
+
+In advance of the course, you need to:
+
+  * set up Python, Anaconda, mpi4py and Jupyter notebooks on your laptop;
+  * apply for a login account ARCHER2, the UK National HPC service.
+
+Full instructions are proved below.
+
+<h3>Requirements</h3>
+
 
 <h3>Pre-requisites</h3>
 
