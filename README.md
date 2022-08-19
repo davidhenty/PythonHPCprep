@@ -8,36 +8,10 @@ width="133" height="100">
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty, EPCC.<br />
-Wednesday 7th September 2022, 09:00 - 12:30 BST
-</h3>
-
-Python is widely used in scientific research for tasks such as data
-processing, analysis and visualisation. However, it is not yet widely
-used for large-scale modelling and simulation on High Performance
-Computer (HPC) architectures due to issues with performance – Python
-is primarily designed for ease of use and flexibility, not for
-speed. For example, a C program naively translated in to Python can
-often be over 100 times slower. However, there are techniques that can
-be used to dramatically increase the speed of Python programs such as
-fast array processing using numpy, parallelisation using MPI
-message-passing and running on HPC systems.
-
-In this hands-on workshop we will illustrate these techniques in
-practice by applying them to a toy application which simulates traffic
-flow using a simple cellular automaton model. Having developed and
-tested the program on your own laptop, we will then move to the UK
-National Supercomputer ARCHER2 which has in excess of 750,000
-CPU-cores. With a combination of numpy and mpi4py we will aim for a
-performance increase of more than a factor of 10,000 compared to the
-original program.
-
-As much of the programming as possible will be done using Jupyter
-Notebooks, but we will run on ARCHER2 via the standard Slurm batch
-scheduling system. Although attendees will be encouraged to write
-their own code, full solutions will be provided for all exercises. The
-main aim is to illustrate the potential power of supercomputer systems
-to new users, and to demystify HPC and parallel programming.
+<h3>David Henty, EPCC.<br /> Wednesday 7th September 2022, 09:00 -
+12:30 BST </h3> This page details the setup steps you need to take in
+advance of the RSECon22 workshop
+(https://virtual.oxfordabstracts.com/#/event/3101/submission/103)[Make your Python code 10,000 times faster with parallel numpy!]
 
 <h3>Requirements</h3>
 
