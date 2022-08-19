@@ -8,10 +8,15 @@ width="133" height="100">
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-<h3>David Henty, EPCC.<br /> Wednesday 7th September 2022, 09:00 -
-12:30 BST </h3> This page details the setup steps you need to take in
-advance of the RSECon22 workshop
-(https://virtual.oxfordabstracts.com/#/event/3101/submission/103)[Make your Python code 10,000 times faster with parallel numpy!]
+<h3>Introduction</h3>
+
+This page details the setup steps you need to take in advance of the
+RSECon22 workshop [Make your Python code 10,000 times faster with
+parallel
+numpy!](https://virtual.oxfordabstracts.com/#/event/3101/submission/103)
+
+Wednesday 7th September 2022, 09:00 -
+12:30 BST </h3>
 
 <h3>Requirements</h3>
 
