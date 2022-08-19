@@ -29,8 +29,7 @@ Full instructions are proved below.
 
 <h3>Python setup on your laptop</h3>
 
-<h4>Pre-requisites</h3>
-
+<h4>Python environment
 To install Python3, Anaconda and Jupyter Notebooks follow the
 [instructions on the Software Carpentries
 website](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
@@ -48,12 +47,30 @@ You should see the output:
 ````
 [-1  0  1]
 ````
+<h4>MPI environment</h4>
 
+Once you have the Anaconda distribution, it is a relatively
+straightforward matter to install mpi4py and an actual MPI
+implementation (here we use MPICH) which is required to do the
+work underneath.
 
-The course assumes a basic understanding of Python programming. You
-will also need to be able to run a Jupyter notebook on your own laptop
--- follow the installation instructions at
-[https://jupyter.org/install](https://jupyter.org/install).
+From a local terminal type:
+````
+user@laptop> conda install -c conda-forge mpi4py
+````
+
+Windows users should launch an Anaconda Prompt terminal using `CMD.exe
+Prompt` from Anaconda Navigator.
+
+Note for users who already have MPI installed (e.g., for C/Fortran):
+to prevent name clashes in your PATH it can be useful to use a conda
+environment to install mpi4py and the associated MPI implementation -
+see
+[http://conda.pydata.org/docs/using/envs.html](http://conda.pydata.org/docs/using/envs.html). You
+can switch to a different environment using "Kernel -> Change kernel"
+from the Jupyter notebook.
+
+<h4>ARCHER2 Account</h4>
 
 You will also need an account on the [UK national supercomputer
 ARCHER2](https://www.archer2.ac.uk/); full details of how to apply
