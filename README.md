@@ -14,9 +14,7 @@ This page details the setup steps you need to take in advance of the
 RSECon22 workshop [Make your Python code 10,000 times faster with
 parallel
 numpy!](https://virtual.oxfordabstracts.com/#/event/3101/submission/103)
-
-Wednesday 7th September 2022, 09:00 -
-12:30 BST </h3>
+on Wednesday 7th September 2022, 09:00 - 12:30 BST.
 
 <h3>Requirements</h3>
 
