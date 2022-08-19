@@ -16,6 +16,11 @@ parallel
 numpy!](https://virtual.oxfordabstracts.com/#/event/3101/submission/103)
 on Wednesday 7th September 2022, 09:00 - 12:30 BST.
 
+In advance of the course, you need to
+
+  * a
+  * b
+
 <h3>Requirements</h3>
 
 Participants must bring a laptop with a Mac, Linux, or Windows
@@ -23,6 +28,8 @@ operating system (not a tablet, Chromebook, etc.) that they have
 administrative privileges on.
 
 <h3>Pre-requisites</h3>
+
+
 
 The course assumes a basic understanding of Python programming. You
 will also need to be able to run a Jupyter notebook on your own laptop
