@@ -36,6 +36,10 @@ To install Python3, Anaconda and Jupyter Notebooks follow the
 [instructions on the Software Carpentries
 website](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
 
+If you are a Windows user, note that during installation you should
+make sure you check the box **Add Anaconda to my PATH environment
+variable**.
+
 We will not be using the same material as the Software Carpentries
 course, but to test your installation you can follow the instructions
 to "Obtain lesson materials", open `swc-python/Untitled.ipynb` in a
