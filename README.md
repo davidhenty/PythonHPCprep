@@ -40,6 +40,10 @@ If you are a Windows user, note that during installation you should
 make sure you check the box **Add Anaconda to my PATH environment
 variable**.
 
+Note that this installation can take a long time; for me it stalled
+for quite a while at "Setting up the base environment" but did
+complete eventually!
+
 To test your numpy installation, download and unzip
 [PythonHPCexamples.zip](https://github.com/davidhenty/PythonHPCprep/raw/master/PythonHPCexamples.zip)
 and open `examples.ipynb` in a Jupyter notebook. The notebook also
