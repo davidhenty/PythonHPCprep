@@ -25,7 +25,8 @@ In advance of the course, you need to:
   * set up Python, Anaconda, Jupyter notebooks and mpi4py on your laptop;
   * apply for a login account on ARCHER2, the UK National HPC service.
 
-Full instructions are proved below.
+Full instructions are provided below - if there are any issues please
+contact [d.henty@epcc.ed.ac.uk](mailto:d.henty@epcc.ed.ac.uk).
 
 <h3>Python setup on your laptop</h3>
 
