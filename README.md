@@ -42,7 +42,7 @@ variable**.
 
 To test your numpy installation, download and unzip
 [PythonHPCexamples.zip](PythonHPCexamples.zip) and open
-`examples.ipynb` in a Juptyre notebook. The notebook also includes a
+`examples.ipynb` in a Jupyter notebook. The notebook also includes a
 simple test which you can run after installing your MPI installation
 below.
 
