@@ -89,7 +89,7 @@ an email detailing how to apply for an account.
 
 Please note:
 
-  * Due to security resrictions we cannot accept ARCHER2 registrations
+  * Due to security restrictions we cannot accept ARCHER2 registrations
     from non-institutional accounts (e.g. gmail accounts are not
     accepted). All ".ac.uk" addresses are accepted, and we will also
     consider applications from recognised academic institutions and
