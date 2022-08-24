@@ -40,19 +40,12 @@ If you are a Windows user, note that during installation you should
 make sure you check the box **Add Anaconda to my PATH environment
 variable**.
 
-We will not be using the same material as the Software Carpentries
-course, but to test your installation you can follow the instructions
-to "Obtain lesson materials", open `swc-python/Untitled.ipynb` in a
-Jupyter notebook and execute the following commands (to execute a command in a notebook you need to type Shift + Enter, not just Enter):
-````
-import numpy as np
-a = np.array( [-1, 0, 1] )
-print(a)
-````
-You should see the output:
-````
-[-1  0  1]
-````
+To test your numpy installation, download and unzip
+[PythonHPCexamples.zip](PythonHPCexamples.zip) and open
+`examples.ipynb` in a Juptyre notebook. The notebook also includes a
+simple test which you can run after installing your MPI installation
+below.
+
 <h4>MPI environment</h4>
 
 Once you have the Anaconda distribution, it is a relatively
