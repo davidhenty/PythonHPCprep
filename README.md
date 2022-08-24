@@ -28,9 +28,9 @@ In advance of the course, you need to:
 Full instructions are provided below - if there are any issues please
 contact [d.henty@epcc.ed.ac.uk](mailto:d.henty@epcc.ed.ac.uk).
 
-<h3>Python setup on your laptop</h3>
+<h2>Python setup on your laptop</h2>
 
-<h4>Python environment</h4>
+<h3>Python environment</h3>
 
 To install Python3, Anaconda and Jupyter Notebooks follow the
 [instructions on the Software Carpentries
@@ -44,13 +44,15 @@ Note that this installation can take a long time; for me it stalled
 for quite a while at "Setting up the base environment" but did
 complete eventually!
 
+</h4>Testing</h4>
+
 To test your numpy installation, download and unzip
 [PythonHPCexamples.zip](https://github.com/davidhenty/PythonHPCprep/raw/master/PythonHPCexamples.zip)
 and open `examples.ipynb` in a Jupyter notebook. The notebook also
 includes a simple test which you can run after installing your MPI
 installation below.
 
-<h4>MPI environment</h4>
+<h3>MPI environment</h3>
 
 Once you have the Anaconda distribution, it is a relatively
 straightforward matter to install mpi4py and an actual MPI
@@ -73,7 +75,12 @@ see
 can switch to a different environment using "Kernel -> Change kernel"
 from the Jupyter notebook.
 
-<h4>ARCHER2 Account</h4>
+</h4>Testing</h4>
+
+Run the `mpihello.py` example as instructed in the notebook you
+previously donwloaded to test Python and numpy.
+
+<h3>ARCHER2 Account</h3>
 
 You will also need an account on the [UK national supercomputer
 ARCHER2](https://www.archer2.ac.uk/). As someone who expressed an
