@@ -41,10 +41,10 @@ make sure you check the box **Add Anaconda to my PATH environment
 variable**.
 
 To test your numpy installation, download and unzip
-[PythonHPCexamples.zip](PythonHPCexamples.zip) and open
-`examples.ipynb` in a Jupyter notebook. The notebook also includes a
-simple test which you can run after installing your MPI installation
-below.
+[PythonHPCexamples.zip](https://github.com/davidhenty/PythonHPCprep/raw/master/PythonHPCexamples.zip)
+and open `examples.ipynb` in a Jupyter notebook. The notebook also
+includes a simple test which you can run after installing your MPI
+installation below.
 
 <h4>MPI environment</h4>
 
