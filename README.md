@@ -74,10 +74,24 @@ from the Jupyter notebook.
 <h4>ARCHER2 Account</h4>
 
 You will also need an account on the [UK national supercomputer
-ARCHER2](https://www.archer2.ac.uk/); full details of how to apply
-will be supplied in advance.
+ARCHER2](https://www.archer2.ac.uk/). As someone who expressed an
+interest in this workshop when you registered you will have received
+an email detailing how to apply for an account.
 
+Please note:
 
+  * Due to security resrictions we cannot accept ARCHER2 registrations
+    from non-institutional accounts (e.g. gmail accounts are not
+    accepted). All ".ac.uk" addresses are accepted, and we will also
+    consider applications from recognised academic institutions and
+    commercial companies.
+
+  * Don't worry if you can't get an ARCHER2 account - all the
+    exercises can be done on your laptop and it is only the final
+    performance measurements that actually require access to
+    ARCHER2. You are welcome to pair up with someone else for this
+    session at the workshop.
+  
 ---
 
 This work is licensed under a
