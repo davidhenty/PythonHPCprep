@@ -44,7 +44,7 @@ Note that this installation can take a long time; for me it stalled
 for quite a while at "Setting up the base environment" but did
 complete eventually!
 
-</h4>Testing</h4>
+<h4>Testing</h4>
 
 To test your numpy installation, download and unzip
 [PythonHPCexamples.zip](https://github.com/davidhenty/PythonHPCprep/raw/master/PythonHPCexamples.zip)
@@ -75,7 +75,7 @@ see
 can switch to a different environment using "Kernel -> Change kernel"
 from the Jupyter notebook.
 
-</h4>Testing</h4>
+<h4>Testing</h4>
 
 Run the `mpihello.py` example as instructed in the notebook you
 previously donwloaded to test Python and numpy.
