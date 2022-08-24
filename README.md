@@ -29,7 +29,7 @@ Full instructions are proved below.
 
 <h3>Python setup on your laptop</h3>
 
-<h4>Python environment
+<h4>Python environment</h4>
 To install Python3, Anaconda and Jupyter Notebooks follow the
 [instructions on the Software Carpentries
 website](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
