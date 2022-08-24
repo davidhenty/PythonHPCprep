@@ -31,8 +31,8 @@ Full instructions are proved below.
 
 <h4>Python environment</h4>
 To install Python3, Anaconda and Jupyter Notebooks follow the
-[instructions on the Software Carpentries
-website](https://swcarpentry.github.io/python-novice-inflammation/setup.html).
+[instructions on the Software Carpentries website]
+(https://swcarpentry.github.io/python-novice-inflammation/setup.html).
 
 We will not be using the same material as the Software Carpentries
 course, but to test your installation you can follow the instructions
