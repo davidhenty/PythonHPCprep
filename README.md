@@ -78,7 +78,8 @@ from the Jupyter notebook.
 <h4>Testing</h4>
 
 Run the `mpihello.py` example as instructed in the notebook you
-previously donwloaded to test Python and numpy.
+previously downloaded to test Python and numpy. You should exit and
+reload the notebook to ensure you MPI installation takes effect.
 
 <h3>ARCHER2 Account</h3>
 
