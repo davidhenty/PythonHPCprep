@@ -70,6 +70,9 @@ platforms. Don't worry if you have problems with this stage as there
 will be time at the workshop to help you, and all parallel exercises
 can also be undertaken on ARCHER2 (although not via a noteboook).
 
+Having installed MPI it is **essential** that you completely stop and
+restart your notebook to pick up the new environment.
+
 <h4>Mac</h4>
 
 You first need to install MPI at a system level. From a local terminal
@@ -110,9 +113,6 @@ user@linux> conda install -c conda-forge mpi4py
 ````
 
 <h4>Testing</h4>
-
-Having installed MPI it is **essential** that you completely stop and
-restart your notebook to pick up the new environment.
 
 Run the `mpihello.py` example as instructed in the notebook you
 previously downloaded to test Python and numpy.
