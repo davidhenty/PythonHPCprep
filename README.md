@@ -80,14 +80,14 @@ user@mac> brew install mpi4py
 ````
 If you do not have access to `brew` then you can try this:
 ````
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+user@mac> /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ````
 where you will be prompted for your local password as part of the process.
 
 You now need to install the Python bindings for MPI
 
 ````
-user@laptop> conda install -c conda-forge mpi4py
+user@mac> conda install -c conda-forge mpi4py
 ````
 
 This may take a lot of time so be patient!
