@@ -56,30 +56,68 @@ installation below.
 
 Once you have the Anaconda distribution, it is a relatively
 straightforward matter to install mpi4py and an actual MPI
-implementation (here we use MPICH) which is required to do the
-work underneath.
+implementation which is required to do the work underneath.
+
+The installation process varies slightly between different
+platforms. Don't worry if you have problems with this stage as there
+will be time at the workshop to help you, and all parallel exercises
+can also be undertaken on ARCHER2 (although not via a noteboook).
+
+Note for users who already have MPI installed (e.g., for C/Fortran):
+to prevent name clashes in your PATH it can be useful to use a conda
+environment to do the installation -
+see
+[http://conda.pydata.org/docs/using/envs.html](http://conda.pydata.org/docs/using/envs.html). You
+can switch to a different environment within a Jupyter notebook.
+using "Kernel -> Change kernel".
+
+<h4> Mac
+
+You first need to install MPI at a system level. From a local terminal
+type:
 
 From a local terminal type:
+````
+user@mac> brew install mpi4py
+````
+If you do not have access to `brew` then you can try this:
+````
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+````
+where you will be prompted for your local password as part of the process.
+
+You now need to install the Python bindings for MPI
+
 ````
 user@laptop> conda install -c conda-forge mpi4py
 ````
 
+This may take a lot of time so be patient!
+
+<h4>Windows</h4>
+
 Windows users should launch an Anaconda Prompt terminal using `CMD.exe
 Prompt` from Anaconda Navigator.
 
-Note for users who already have MPI installed (e.g., for C/Fortran):
-to prevent name clashes in your PATH it can be useful to use a conda
-environment to install mpi4py and the associated MPI implementation -
-see
-[http://conda.pydata.org/docs/using/envs.html](http://conda.pydata.org/docs/using/envs.html). You
-can switch to a different environment using "Kernel -> Change kernel"
-from the Jupyter notebook.
+From this terminal type:
+````
+user@windows> conda install -c conda-forge mpi4py
+````
+
+<h4>Linux</h4>
+
+From a local terminal type:
+````
+user@linux> conda install -c conda-forge mpi4py
+````
 
 <h4>Testing</h4>
 
+Having installed MPI it is **essential** that you completely stop and
+restart your notebook to pick up the new environment.
+
 Run the `mpihello.py` example as instructed in the notebook you
-previously downloaded to test Python and numpy. You should exit and
-reload the notebook to ensure you MPI installation takes effect.
+previously downloaded to test Python and numpy.
 
 <h3>ARCHER2 Account</h3>
 
