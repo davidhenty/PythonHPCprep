@@ -65,13 +65,12 @@ can also be undertaken on ARCHER2 (although not via a noteboook).
 
 Note for users who already have MPI installed (e.g., for C/Fortran):
 to prevent name clashes in your PATH it can be useful to use a conda
-environment to do the installation -
-see
+environment to do the installation - see
 [http://conda.pydata.org/docs/using/envs.html](http://conda.pydata.org/docs/using/envs.html). You
-can switch to a different environment within a Jupyter notebook.
-using "Kernel -> Change kernel".
+can switch to a different environment within a Jupyter notebook using
+"Kernel -> Change kernel".
 
-<h4> Mac
+<h4>Mac</h4>
 
 You first need to install MPI at a system level. From a local terminal
 type:
