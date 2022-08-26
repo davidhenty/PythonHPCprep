@@ -58,17 +58,17 @@ Once you have the Anaconda distribution, it is a relatively
 straightforward matter to install mpi4py and an actual MPI
 implementation which is required to do the work underneath.
 
-The installation process varies slightly between different
-platforms. Don't worry if you have problems with this stage as there
-will be time at the workshop to help you, and all parallel exercises
-can also be undertaken on ARCHER2 (although not via a noteboook).
-
-Note for users who already have MPI installed (e.g., for C/Fortran):
+A note for users who already have MPI installed (e.g. for C/Fortran):
 to prevent name clashes in your PATH it can be useful to use a conda
 environment to do the installation - see
 [http://conda.pydata.org/docs/using/envs.html](http://conda.pydata.org/docs/using/envs.html). You
 can switch to a different environment within a Jupyter notebook using
 "Kernel -> Change kernel".
+
+The installation process varies slightly between different
+platforms. Don't worry if you have problems with this stage as there
+will be time at the workshop to help you, and all parallel exercises
+can also be undertaken on ARCHER2 (although not via a noteboook).
 
 <h4>Mac</h4>
 
