@@ -75,13 +75,12 @@ can switch to a different environment within a Jupyter notebook using
 You first need to install MPI at a system level. From a local terminal
 type:
 
-From a local terminal type:
 ````
 user@mac> brew install mpi4py
 ````
 If you do not have access to `brew` then you can try this:
 ````
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ````
 where you will be prompted for your local password as part of the process.
 
