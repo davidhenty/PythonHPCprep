@@ -57,6 +57,7 @@ installation below.
 Once you have the Anaconda distribution, it is a relatively
 straightforward matter to install mpi4py and an actual MPI
 implementation which is required to do the work underneath.
+Installation may take a lot of time so be patient!
 
 A note for users who already have MPI installed (e.g. for C/Fortran):
 to prevent name clashes in your PATH it can be useful to use a conda
@@ -92,8 +93,6 @@ You now need to install the Python bindings for MPI
 ````
 user@mac> conda install -c conda-forge mpi4py
 ````
-
-This may take a lot of time so be patient!
 
 <h4>Windows</h4>
 
