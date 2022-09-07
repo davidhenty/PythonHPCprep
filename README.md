@@ -123,6 +123,8 @@ ARCHER2](https://www.archer2.ac.uk/). As someone who expressed an
 interest in this workshop when you registered you will have received
 an email detailing how to apply for an account.
 
+This email is appended below if you did not receive the email
+
 Please note:
 
   * Due to security restrictions we cannot accept ARCHER2 registrations
@@ -136,7 +138,47 @@ Please note:
     performance measurements that actually require access to
     ARCHER2. You are welcome to pair up with someone else for this
     session at the workshop.
-  
+
+
+#Instructions for applying for an account on ARCHER2
+
+Dear all
+
+We are looking forward to welcoming you to the RSECon22 Parallel Numpy course on 7th September 2022.
+
+We would like to invite you to sign up for an account on ARCHER2 for use during the course, and for a short while afterwards, to allow you to complete the practical exercises.    Please do this as soon as possible, and certainly before the start of the course, to allow time to address any issues.
+
+First you need to register for a SAFE account - SAFE is our online administration system.
+https://epcced.github.io/safe-docs/safe-for-users/#register
+
+Please ensure you use your academic email address - account applications from 'gmail' type accounts will not be accepted.  If you do not have access to an academic email, please contact training@epcc.ed.ac.uk to discuss access.
+
+If you have an existing SAFE account for ARCHER2 or Tier2 systems, then use your existing SAFE login credentials to log in, rather than creating a new account.
+
+Then set up a password protected ssh key pair
+https://docs.archer2.ac.uk/user-guide/connecting/#access-credentials
+
+Then request your ARCHER2 login account.
+https://docs.archer2.ac.uk/quick-start/quickstart-users#request-an-archer2-login-account
+adding your ssh public key when prompted.
+
+Full documentation is available at https://docs.archer2.ac.uk/quick-start/quickstart-users
+
+The project code is ta083 on ARCHER2
+
+You will receive an email once your account request has been approved and the account has been set up - there may be a delay.
+
+You can then retrieve the initial password
+https://docs.archer2.ac.uk/quick-start/quickstart-users#collecting-your-archer2-password
+
+and get logged on
+https://docs.archer2.ac.uk/quick-start/quickstart-users#login-to-archer2
+
+Note that when you first log on you will be immediately prompted to change your "ldap password" - please see the 2nd Tip box on the section above.
+
+If you have any issues, please contact the ARCHER2 service desk, support@archer2.ac.uk, and please mention that you are a student on the RSECon22 Parallel Numpy course on 7th September 2022   and are using the Training Project ta083 on the ARCHER2.
+---------------------------------------------------
+
 ---
 
 This work is licensed under a
