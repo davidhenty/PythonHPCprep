@@ -183,8 +183,6 @@ support@archer2.ac.uk, and please mention that you are a student on
 the RSECon22 Parallel Numpy course on 7th September 2022 and are using
 the Training Project ta083 on the ARCHER2.
 
----------------------------------------------------
-
 ---
 
 This work is licensed under a
