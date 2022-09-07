@@ -140,7 +140,7 @@ Please note:
     session at the workshop.
 
 
-#Instructions for applying for an account on ARCHER2
+# Instructions for applying for an account on ARCHER2
 
 Dear all
 
