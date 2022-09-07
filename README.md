@@ -140,7 +140,7 @@ Please note:
     session at the workshop.
 
 
-# Instructions for applying for an account on ARCHER2
+## Instructions for applying for an account on ARCHER2
 
 Dear all
 
@@ -174,9 +174,15 @@ https://docs.archer2.ac.uk/quick-start/quickstart-users#collecting-your-archer2-
 and get logged on
 https://docs.archer2.ac.uk/quick-start/quickstart-users#login-to-archer2
 
-Note that when you first log on you will be immediately prompted to change your "ldap password" - please see the 2nd Tip box on the section above.
+Note that when you first log on you will be immediately prompted to
+change your "ldap password" - please see the 2nd Tip box on the
+section above.
 
-If you have any issues, please contact the ARCHER2 service desk, support@archer2.ac.uk, and please mention that you are a student on the RSECon22 Parallel Numpy course on 7th September 2022   and are using the Training Project ta083 on the ARCHER2.
+If you have any issues, please contact the ARCHER2 service desk,
+support@archer2.ac.uk, and please mention that you are a student on
+the RSECon22 Parallel Numpy course on 7th September 2022 and are using
+the Training Project ta083 on the ARCHER2.
+
 ---------------------------------------------------
 
 ---
